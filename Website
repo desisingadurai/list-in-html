@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Web Page</title>
+		<style type="text/css">
+		body{
+			background-color:tan;
+		}
+		ul {
+			height:60px;
+ 			list-style-type: none;
+  			margin:9px;
+  			padding:0px;
+  			overflow: hidden;
+  			background-color:mediumseagreen;
+		}
+
+		ul li {
+  			float:right;
+		}
+
+		ul li a {
+  			display: block;
+  			color: white;
+  			text-align:right;
+  			padding: 20px 16px;
+  			text-decoration:none;
+		}
+	</style>
+</head>
+<body>
+	<div style="height:60px;background-color:mediumseagreen;">
+		<ul>
+		<li><a href="sbabout.html">About</a></li>
+		<li><a href="linklogin.html">login</a></li>
+		<li><a href="signup.html">Sign up</a></li>
+		<li><a href="login.html">Home</a></li>
+		<img src="wapper.png" style="height:60px;width:160px;">
+	</ul>
+	<div style="background-image: url('new.jpeg');background-repeat:no-repeat;height:600px;width: 1300px;margin-left:30px;">
+		
+	</div>
+		<footer style="height:200px;width:1350px;background-color:darkgray;">
+			<img href="https://web.whatsapp.com/" src="whatsapp.png" alt="whatsapp.logo" style="height:25px;width:25px;margin-left:20px;margin-top:40px; border-radius:10px;float: left;">
+			<img href="https://www.instagram.com/?hl=en" src="Instagram.png" alt="instagram.logo" style="height:25px;width:25px;margin-left:20px;margin-top:40px; border-radius:10px;float: left;">
+			<img src="Twit.png" alt="twitter.logo" style="height:25px;width:25px;margin-left:20px;margin-top:40px; border-radius:10px;float: left;">
+			<img href="https://www.threads.com/?hl=en" src="threads.png" alt="threads.logo" style="height:25px;width:25px;margin-left:20px;margin-top:40px; border-radius:10px;float: left;">
+			<img href="https://www.facebook.com/" src="Face.png" alt="facebook.logo" style="height:25px;width:25px;margin-left:20px;margin-top:40px; border-radius:10px;float: left;"><br><br>
+			<a href="https://www.starbucks.com/terms/privacy-notice/" style="color:white;margin-left:80px;margin-top:10px;float: left;font-family:Helvetica;font-size: 18px;">Privacy Notice</a>
+			<a href="https://www.starbucks.com/terms/starbucks-terms-of-use/" style="color:white;margin-left:80px;margin-top:10px;float: left;font-family:Helvetica;font-size: 18px;">Terms of Use</a>
+			<a href="https://www.starbucks.com/about-us/accessibility/" style="color:white;margin-left:80px;margin-top:10px;float: left;font-family:Helvetica;font-size: 18px;">Accessability</a>
+			<a href="https://www.starbucks.com/personal-information" style="color:white;margin-left:80px;margin-top:10px;float: left;font-family:Helvetica;font-size: 18px;">Do not Share my Information</a>
+		</footer>
+		
+	</div>
+</body>
+</html>
